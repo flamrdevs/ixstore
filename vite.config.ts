@@ -9,5 +9,8 @@ export default defineConfig({
       entry: ["src/index.ts"],
       formats: ["cjs", "es"],
     },
+    rollupOptions: {
+      external: ["ixclone"],
+    },
   },
 });
