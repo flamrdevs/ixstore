@@ -1,3 +1,18 @@
+<p align="center">
+  <a title="license" href="https://github.com/flamrdevs/ixstore/blob/main/LICENSE">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/core/badge?t=dark&v=MIT">
+      <img alt="github" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
+    </picture>
+  </a>
+  <a title="gzip" href="https://bundlejs.com/?q=ixstore">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/bundlejs/size?t=dark&n=ixstore">
+      <img alt="github" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixstore" hspace="1">
+    </picture>
+  </a>
+</p>
+
 # ixstore
 
 simple state management
