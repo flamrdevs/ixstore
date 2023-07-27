@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   ixclone:
-    specifier: 1.0.1
-    version: 1.0.1
+    specifier: 1.0.2
+    version: 1.0.2
 
 devDependencies:
   '@types/node':
@@ -2169,8 +2169,8 @@ packages:
       iterate-iterator: 1.0.2
     dev: true
 
-  /ixclone@1.0.1:
-    resolution: {integrity: sha512-NigSL9FzmSQAl9Ro3TAM6xs3guBdv/7Heu7UN0aS4RNncscwJxDacnv/AH9D0fwaL3Lp0k+4b9RLIN9LWEU9kQ==}
+  /ixclone@1.0.2:
+    resolution: {integrity: sha512-ilepYgSxoRB7xaag9gh1R/Vf2yRiEPEDW/ucoPQGWgURqEP5vTV0q1fayvsQ67UvVhjoyi8a6068ualwT62x8A==}
     dev: false
 
   /jju@1.4.0:
