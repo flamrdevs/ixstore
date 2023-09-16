@@ -1,20 +1,20 @@
 <p align="center">
   <a title="license" href="https://github.com/flamrdevs/ixstore/blob/main/LICENSE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l?t=dark&n=ixstore">
-      <img alt="license" src="https://none.deno.dev/npm/l?t=light&n=ixstore" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l/ixstore?t=dark">
+      <img alt="license" src="https://none.deno.dev/npm/l/ixstore?t=light" hspace="1">
     </picture>
   </a>
   <a title="version" href="https://www.npmjs.com/package/ixstore">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v?t=dark&n=ixstore">
-      <img alt="version" src="https://none.deno.dev/npm/v?t=light&n=ixstore" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v/ixstore?t=dark">
+      <img alt="version" src="https://none.deno.dev/npm/v/ixstore?t=light" hspace="1">
     </picture>
   </a>
   <a title="size" href="https://bundlejs.com/?q=ixstore">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz?t=dark&n=ixstore">
-      <img alt="size" src="https://none.deno.dev/bundlejs/mz?t=light&n=ixstore" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz/ixstore?t=dark">
+      <img alt="size" src="https://none.deno.dev/bundlejs/mz/ixstore?t=light" hspace="1">
     </picture>
   </a>
 </p>
