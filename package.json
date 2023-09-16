@@ -1,6 +1,6 @@
 {
   "name": "ixstore",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple state management",
   "type": "module",
   "main": "./dist/index.cjs",
