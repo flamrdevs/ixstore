@@ -46,6 +46,6 @@
     "vitest": "^0.33.0"
   },
   "dependencies": {
-    "ixclone": "1.0.4"
+    "ixclone": "1.0.5"
   }
 }

@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   ixclone:
-    specifier: 1.0.4
-    version: 1.0.4
+    specifier: 1.0.5
+    version: 1.0.5
 
 devDependencies:
   '@types/node':
@@ -1559,8 +1559,8 @@ packages:
     resolution: {integrity: sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==}
     dev: true
 
-  /fsevents@2.3.2:
-    resolution: {integrity: sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==}
+  /fsevents@2.3.3:
+    resolution: {integrity: sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==}
     engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
     os: [darwin]
     requiresBuild: true
@@ -2192,8 +2192,8 @@ packages:
       iterate-iterator: 1.0.2
     dev: true
 
-  /ixclone@1.0.4:
-    resolution: {integrity: sha512-WehGa/JR6KUW9hx3PzVSIh8wu211H2vI9gLGrTNkF0QB+puyOk3vskY7ubvCyh6dyQSWRw36UHqn8hws2KpGMg==}
+  /ixclone@1.0.5:
+    resolution: {integrity: sha512-s/x6/lx1zlSnrbN8LtZrhuT7B9CFRwTi+AeUNU2BYTjsyir8US2j1t6X0K3XZ8BNW5RbkvOlv2nsEEbkLbef8Q==}
     dev: false
 
   /jju@1.4.0:
@@ -2942,7 +2942,7 @@ packages:
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /run-applescript@5.0.0:
@@ -3505,7 +3505,7 @@ packages:
       postcss: 8.4.27
       rollup: 3.27.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /vitest@0.33.0:
